@@ -4,7 +4,7 @@ Data Strutures and AlgorithmsPractices by Onlie Judge
 
 ---
 
-- Onlie Judge
+- Online Judge
 
 [jianzhiOffer](https://www.nowcoder.com/ta/coding-interviews)
 
