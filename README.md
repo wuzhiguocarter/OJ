@@ -6,11 +6,12 @@ Data Strutures and AlgorithmsPractices by Onlie Judge
 
 - Online Judge
 
-[jianzhiOffer](https://www.nowcoder.com/ta/coding-interviews)
+[jianzhiOffer](https://www.nowcoder.com/ta/coding-interviews) 不需要处理输入/输出
 
-[LeetCode](https://leetcode.com/)
+[LeetCode](https://leetcode.com/) 不需要处理输入/输出
 
-[USACO](http://train.usaco.org/usacogate)
+[USACO](http://train.usaco.org/usacogate) 使用文件I/O的方式处理输入输出
+
 
 - Data Structures and Algorithms
 
