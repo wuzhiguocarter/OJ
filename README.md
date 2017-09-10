@@ -6,7 +6,7 @@ Data Strutures and AlgorithmsPractices by Onlie Judge
 
 - Online Judge
 
-[jianzhiOffer](https://www.nowcoder.com/ta/coding-interviews) 不需要处理输入/输出
+[jianzhiOffer](https://www.nowcoder.com/ta/coding-interviews) 不需要处理输入/输出, 标准I/O处理输入输出
 
 [LeetCode](https://leetcode.com/) 不需要处理输入/输出
 
